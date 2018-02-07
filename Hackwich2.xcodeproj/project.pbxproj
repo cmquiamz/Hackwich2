@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7F70471F202A7B05005D7CE3 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F70471E202A7B05005D7CE3 /* SecondViewController.swift */; };
 		7FC9355720167C6C004483FF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FC9355620167C6C004483FF /* AppDelegate.swift */; };
 		7FC9355920167C6C004483FF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7FC9355820167C6C004483FF /* ViewController.swift */; };
 		7FC9355C20167C6D004483FF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7FC9355A20167C6D004483FF /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7F70471E202A7B05005D7CE3 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		7FC9355320167C6C004483FF /* Hackwich2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Hackwich2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7FC9355620167C6C004483FF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7FC9355820167C6C004483FF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -100,6 +102,7 @@
 				7FC9355620167C6C004483FF /* AppDelegate.swift */,
 				7FC9355820167C6C004483FF /* ViewController.swift */,
 				7FC9355A20167C6D004483FF /* Main.storyboard */,
+				7F70471E202A7B05005D7CE3 /* SecondViewController.swift */,
 				7FC9355D20167C6D004483FF /* Assets.xcassets */,
 				7FC9355F20167C6D004483FF /* LaunchScreen.storyboard */,
 				7FC9356220167C6D004483FF /* Info.plist */,
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7F70471F202A7B05005D7CE3 /* SecondViewController.swift in Sources */,
 				7FC9355920167C6C004483FF /* ViewController.swift in Sources */,
 				7FC9355720167C6C004483FF /* AppDelegate.swift in Sources */,
 			);
